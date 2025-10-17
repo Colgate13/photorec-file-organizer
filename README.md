@@ -4,7 +4,7 @@ A simple and efficient CLI tool written in Rust to organize files recovered by P
 
 ## Features
 
-- **Remove small files**: Automatically delete files smaller than 20KB
+- **Remove small files**: Automatically delete files smaller than 10KB
 - **Organize by extension**: Sort files into folders based on their file type
 - **Handle duplicates**: Automatically rename duplicate files
 - **Clean up**: Remove empty directories after organization
