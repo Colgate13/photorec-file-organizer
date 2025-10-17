@@ -30,7 +30,7 @@ fn main() {
 
 fn remove_small_files() {
     let start_path = std::env::current_dir().expect("Failed to get current directory");
-    let min_size: u64 = 20 * 1024; // 10 KB
+    let min_size: u64 = 10 * 1024; // 10 KB
 
     println!("\n=== Removing files smaller than 10KB ===");
     println!("Scanning directory: {}\n", start_path.display());
