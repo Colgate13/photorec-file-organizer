@@ -42,7 +42,7 @@ Or use the compiled binary:
 
 ### Options
 
-1. **Remove files smaller than 20KB** - Clean up small/corrupted files
+1. **Remove files smaller than 10KB** - Clean up small/corrupted files
 2. **Organize files by extension** - Sort files into folders (png, jpg, mp4, etc.)
 3. **Both** - Remove small files first, then organize
 
